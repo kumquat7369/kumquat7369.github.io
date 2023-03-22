@@ -1,9 +1,12 @@
-h1 {
-	font-family: "Lucida Console", "Monaco", monospace;
-}
-
 p {
 	color: blue;
+}
+
+.title {
+	font-size: 50px;
+	font-family: "Righteous", "Monaco", monospace;
+	text-align: center;
+	margin: -20px;
 }
 
 .meal {
